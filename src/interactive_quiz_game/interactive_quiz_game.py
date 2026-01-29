@@ -25,6 +25,7 @@ def run_quiz(questions, answers):
 
 
 def main():
+    print("----------------------------------------")
     print("🎯 Welcome to the Interactive Quiz Game!")
     print("Test your general knowledge and see how you score.\n")
 
