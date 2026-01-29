@@ -1,12 +1,12 @@
-# interactive-quiz-game
+# Interactive-Quiz-Game
 
 ## Overview
-The Interactive Quiz Game is a Python program designed to make learning and review more engaging by turning general knowledge and basic programming concepts into an interactive quiz experience. This program is intended for students or users who want a simple, user-friendly way to test their knowledge while demonstrating core programming structures.
+The Interactive Quiz Game is a Python program designed to make learning more engaging by turning general knowledge into a fun, interactive quiz. It is designed for students or users who want a simple, user-friendly way to test their knowledge while demonstrating core programming structures.
 
 ## How to Run the Program
 1. Ensure Python is installed on your computer.
 2. Open the project folder in VS Code.
-3. Run the file named `main.py`. 
+3. Run the file named `interactive_quiz_game.py`. 
 
 ## How the Program Works
 - The program asks the user to enter their name.
@@ -43,4 +43,4 @@ The original plan included fewer questions. The project was expanded to include 
 - GitHub used for version control with multiple descriptive commits
 
 ## Notes for the User
-The program is designed to be easy to use, clearly labeled, and understandable without the creator present. All instructions and prompts are provided within the program and this README file.
+The program is designed to be easy to use, clearly labeled, and understandable without the creator present. All instructions and prompts are provided directly in the program and in this README.

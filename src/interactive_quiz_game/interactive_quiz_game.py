@@ -1,6 +1,8 @@
 """
 Interactive Quiz Game 
-by. Akhila Chitluri 
+by. Akhila Chitluri
+Description: A general knowledge quiz game using input, output,
+decisions, and loops.
 """
 def run_quiz(questions, answers):
     """
@@ -30,13 +32,13 @@ def main():
 
     questions = [
         "1) What is the capital of France?\nA) Paris\nB) Rome\nC) Madrid\nD) Berlin",
-        "2) Which planet is known as the Red Planet?\nA) Earth\nB) Mars\nC) Jupiter\nD) Venus",
-        "3) What is the largest ocean on Earth?\nA) Atlantic\nB) Indian\nC) Arctic\nD) Pacific",
+        "2) Which layer of Earth lies directly beneath the crust?\nA) Inner core\nB) Outer core\nC) Lithosphere\nD) Mantle",
+        "3) Which country has the longest coastline in the world?\nA) United States\nB) Australia\nC) Canada\nD) Russia",
         "4) Which data type stores whole numbers in Python?\nA) float\nB) string\nC) int\nD) boolean",
-        "5) Which keyword is used to repeat code while a condition is true?\nA) if\nB) for\nC) while\nD) repeat"
+        "5) What is the smallest prime number greater than 50?\nA) 51\nB) 53\nC) 57\nD) 59",
     ]
 
-    answers = ["a", "b", "d", "c", "c"]
+    answers = ["a", "d", "c", "c", "b"]
 
     play_again = "yes"
 
